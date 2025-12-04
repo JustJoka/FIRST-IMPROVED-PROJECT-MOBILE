@@ -47,3 +47,5 @@ Composição de componentes funcionais<br>
 Criação de interface com StyleSheet<br>
 
 Organização de layout usando Flexbox<br>
+<br>
+![Preview](https://github.com/JustJoka/FIRST-IMPROVED-PROJECT-MOBILE/blob/main/primeiro-projeto-mobile-melhorado/Images/Screenshot_391.png?raw=true)
